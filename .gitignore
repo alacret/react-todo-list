@@ -1,0 +1,10 @@
+#ignore npm modules
+node_modules/
+
+#ignore the bundle files
+public/*
+
+#don't ignore any gitkeep file
+!.gitkeep
+
+.idea/
